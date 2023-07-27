@@ -1,0 +1,38 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color:red
+}
+
+html {
+    background-color: pink;
+}
+
+h1 {
+    color:white;
+    font-family: Arial;
+    text-align: center;
+    margin: 0;
+    text-shadow: 3px 2px 1px black;
+    padding: 20px 0;
+}
+
+body{
+    width: 500px;
+    margin:0 auto;
+    background-color: #ff9500;
+    padding: 0 25px 25px 25px;
+    border: 5px solid black
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+#funfact1 {
+    color: aqua;
+}
+
+li {
+    font-family: Arial, Helvetica, sans-serif;
+}
